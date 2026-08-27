@@ -214,7 +214,6 @@ The demo showcases:
 
 This project combines **Artificial Intelligence, Deep Learning, Speech Recognition, NLP, Machine Learning, and Database Management** to develop an end-to-end speech processing solution.
 
-**[LSTM_code.ipynb]**
 
 ---
 
