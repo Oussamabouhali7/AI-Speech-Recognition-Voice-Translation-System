@@ -177,12 +177,20 @@ This repository contains the different notebooks used throughout the project:
 
 ---
 
+## Application Screenshots
 
-## Screenshots
+### Model Comparison
+Compare the performance of different transcription models based on their accuracy and processing results.
 
-![Application Screenshot](images/Model-comparaison.png)
+![Model Comparison](images/Model-comparaison.png)
 
-![Application Screenshot](images/transcribe-audio-file.png)
+### Transcribe Audio File
+Upload an audio file to automatically transcribe its content and generate the corresponding transcription.
+
+![Transcribe Audio File](images/transcribe-audio-file.png)
+
+
+
 ## 🎥 Application Demo
 
 A complete demonstration of the application is available on LinkedIn.
