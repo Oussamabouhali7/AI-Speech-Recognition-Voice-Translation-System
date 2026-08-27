@@ -182,7 +182,7 @@ This repository contains the different notebooks used throughout the project:
 
 ![Application Screenshot](images/Model-comparaison.png)
 
-
+![Application Screenshot](images/transcribe-audio-file.png)
 ## 🎥 Application Demo
 
 A complete demonstration of the application is available on LinkedIn.
