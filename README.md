@@ -177,6 +177,12 @@ This repository contains the different notebooks used throughout the project:
 
 ---
 
+
+## Screenshots
+
+![Application Screenshot](images/Model-comparaison.png)
+
+
 ## 🎥 Application Demo
 
 A complete demonstration of the application is available on LinkedIn.
