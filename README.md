@@ -206,7 +206,7 @@ The demo showcases:
 * Admin functionalities
 * Model comparison and evaluation dashboard
 
-**[▶️ Watch the application demo on LinkedIn](YOUR_LINKEDIN_POST_URL)**
+**[▶️ Watch the application demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7499086165669638146/)**
 
 ---
 
