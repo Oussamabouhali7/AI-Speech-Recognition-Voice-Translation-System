@@ -184,6 +184,11 @@ Compare the performance of different transcription models based on their accurac
 
 ![Model Comparison](images/Model-comparaison.png)
 
+### Transcribe Microphone
+Record your voice directly through the microphone and automatically convert the speech into text.
+
+![Transcribe Microphone](images/Transcribe-microphone.png)
+
 ### Transcribe Audio File
 Upload an audio file to automatically transcribe its content and generate the corresponding transcription.
 
